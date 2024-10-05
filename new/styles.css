@@ -10,7 +10,7 @@ body
 {
 	background: #003056;
 	background-image: url('../assets/DALL·E\ 2024-10-05\ 21.37.31\ -\ A\ cozy\ home\ exterior\ featuring\ PVC\ roofing\ sheets\ in\ a\ residential\ setting.\ The\ image\ showcases\ a\ charming\ house\ with\ a\ sloped\ roof\ made\ of\ colorful\ P.webp');
-	width: 100%;
+	width: 100vh;
     height: 100vh; /* Full height of the viewport */
     background-size: cover; /* Cover the entire element */
     background-position: center; /* Center the image */
@@ -31,7 +31,7 @@ section.content
 	z-index: 1;
 	color: #fff;
 	display: flex;
-	justify-content: center;
+	justify-content: end;
 	align-items: center;
 	text-align: center;
 }
